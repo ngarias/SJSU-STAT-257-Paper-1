@@ -1,4 +1,4 @@
-# SJSU-STAT-257-Paper-1
+# SJSU-STAT-261A-Paper-1
 Introduction: A paper, by Noah Arias, on simple linear regression applied to a dataset of National Women's Soccer League team statistics from 2016 through 2022.
 
 External Resources:
